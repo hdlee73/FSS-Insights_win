@@ -44,9 +44,9 @@ compose.desktop {
             )
             packageName = "FSSInsights"
             packageVersion = "1.0.0"
-            description = "FSS Insights - 금융 뉴스 및 연구자료 검색기 (Windows)"
+            description = "FSS Insights - Financial News and Report Radar"
             vendor = "hdlee73"
-            copyright = "Copyright © 2026 hdlee73. All rights reserved."
+            copyright = "Copyright 2026 hdlee73"
         }
     }
 }
